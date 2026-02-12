@@ -1,12 +1,3 @@
-### What I posted (Checkpoint 1)
-
-* `notebooks/Checkpoint1_EDA.ipynb` (dataset selection + EDA + initial insights)
-* `requirements.txt` (or `environment.yml`) for reproducibility
-
----
-
-## Initial README (copy/paste template)
-
 ### Project Title
 
 **Directed Graph Mining on Reddit Hyperlink Networks (SNAP)**
